@@ -7,4 +7,4 @@ services:
       - ./.env:/app/.env
     restart: always
     ports:
-      - "4123:3000"
+      - "4123:4123"
